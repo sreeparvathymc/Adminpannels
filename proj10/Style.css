@@ -1,0 +1,6 @@
+
+
+.container_one{
+    display: flex;
+    flex-direction: column;
+}
